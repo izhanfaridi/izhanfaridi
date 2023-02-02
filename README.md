@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in DigEvol.Ai<br>👯 I’m currently working on on React Native Ecommerce Application<br>🌱 I’m currently learning Node.Js , MS Sql Server , Backend and Blockchain<br>💬 Ask me about React , React Native and MERN<br>⚡ Fun fact : I'm a Die Hard Video Game fanatic and a Football Fan
+🔭 I’m currently working at InovioTech as a React Native Developer<br>🌱 I’m currently learning Node.Js , MS Sql Server , Backend and Blockchain<br>💬 Ask me about React , React Native and MERN<br>⚡ Fun fact : I'm a Die Hard Video Game fanatic and a Football Fan
 
 
 ## 🌐 Socials:
